@@ -1,0 +1,16 @@
+/* Example styles for MS-Slohar */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #003366; /* Example company color */
+  color: #fff;
+}
+
+/* Other styles as needed */
